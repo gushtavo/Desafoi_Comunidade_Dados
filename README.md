@@ -1,9 +1,12 @@
-# Desafio ComuniDados — Análise de Vendas E-commerce
+# Desafio — Análise de Vendas E-commerce
+
+Parcitipei do Desafio proposto pelo [walter Gonzaga](https://www.youtube.com/@gonzagadosdados) da `Comunidade dos Dados`.
 
 ## Contexto
 
 Você trabalha em uma empresa de e-commerce e recebeu uma base de vendas. Seu objetivo é transformar esses dados em informações de negócio utilizando SQL e Python. Esse desafio simula uma situação real de trabalho onde o profissional de dados precisa extrair, transformar e analisar dados para gerar insights.
 
+- **Dashboard** : [Acesso Rapido]
 ---
 
 ## Estrutura do Projeto
@@ -126,17 +129,5 @@ Arquivo: [notebook/analises.ipynb](notebook/analises.ipynb)
 
 ---
 
-## Como Executar
-
-**Ambiente Python:**
-
-```bash
-uv sync
-uv run jupyter notebook notebook/analises.ipynb
-```
-
-**SQL:**
-
-Execute os scripts na ordem no SQL Server:
-1. `sql/normalizando_colunas.sql`
-2. `sql/queries_analises.sql`
+## 📩 Contato
+[Linkedin](https://www.linkedin.com/in/gushtavoroberto/) | 📧 almeida.gustavo0420@gmail.com
