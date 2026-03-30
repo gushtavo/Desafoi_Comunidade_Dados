@@ -123,8 +123,12 @@ Arquivo: [notebook/analises.ipynb](notebook/analises.ipynb)
 
 ## Tecnologias Utilizadas
 
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black)
 - **Python 3.14+** — pandas, seaborn, matplotlib
 - **SQL** — T-SQL (SQL Server) com DDL, DML, agregações e CTEs
+- **Power BI** — Modelagem, KPIs e DAX
 - **uv** — gerenciamento de dependências e ambiente virtual
 
 ---
