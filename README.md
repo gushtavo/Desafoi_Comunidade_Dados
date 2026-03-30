@@ -17,6 +17,8 @@ desafio_comuniDados/
 │   ├── vendas_desafio.csv         # Base de dados bruta
 │   ├── vendas_normalizadas.csv    # Dados após limpeza e normalização
 │   └── resumo_vendas.csv          # Resumo agregado por produto e categoria
+├── doc/
+    └── desafio_semana_sql_python.pdf  # Diretrizes do Desafio
 ├── sql/
 │   ├── normalizando_colunas.sql   # Script de criação e normalização das tabelas
 │   └── queries_analises.sql       # Queries analíticas de negócio
@@ -117,6 +119,7 @@ Arquivo: [notebook/analises.ipynb](notebook/analises.ipynb)
 
 ### Clientes
 - **Alexandre** é o cliente mais recorrente: **50 compras** ao longo de 2024
+- **Mathias** foi o cliente que trouxe mais retorno em Faturamento com valor de **R$ 122.64k**
 - Todos os 282 clientes compraram mais de uma vez, indicando boa retenção da base
 
 ---
