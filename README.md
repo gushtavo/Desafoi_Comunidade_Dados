@@ -1,9 +1,12 @@
-# Desafio ComuniDados — Análise de Vendas E-commerce
+# Desafio — Análise de Vendas E-commerce
+
+Parcitipei do Desafio proposto pelo [walter Gonzaga](https://www.youtube.com/@gonzagadosdados) da `Comunidade dos Dados`.
 
 ## Contexto
 
 Você trabalha em uma empresa de e-commerce e recebeu uma base de vendas. Seu objetivo é transformar esses dados em informações de negócio utilizando SQL e Python. Esse desafio simula uma situação real de trabalho onde o profissional de dados precisa extrair, transformar e analisar dados para gerar insights.
 
+- **Dashboard** : [Acesse Aqui](https://app.powerbi.com/view?r=eyJrIjoiMTI4ZTA0YTYtMTljYi00OWI4LWEwOGEtMTIxNmE3Y2NkMWFiIiwidCI6IjM2Yzc4ZDUwLThlY2UtNDNmYS1iMThlLTFlOWE5ZTNjNDI1ZCJ9)
 ---
 
 ## Estrutura do Projeto
@@ -14,6 +17,8 @@ desafio_comuniDados/
 │   ├── vendas_desafio.csv         # Base de dados bruta
 │   ├── vendas_normalizadas.csv    # Dados após limpeza e normalização
 │   └── resumo_vendas.csv          # Resumo agregado por produto e categoria
+├── doc/
+    └── desafio_semana_sql_python.pdf  # Diretrizes do Desafio
 ├── sql/
 │   ├── normalizando_colunas.sql   # Script de criação e normalização das tabelas
 │   └── queries_analises.sql       # Queries analíticas de negócio
@@ -114,29 +119,22 @@ Arquivo: [notebook/analises.ipynb](notebook/analises.ipynb)
 
 ### Clientes
 - **Alexandre** é o cliente mais recorrente: **50 compras** ao longo de 2024
+- **Mathias** foi o cliente que trouxe mais retorno em Faturamento com valor de **R$ 122.64k**
 - Todos os 282 clientes compraram mais de uma vez, indicando boa retenção da base
 
 ---
 
 ## Tecnologias Utilizadas
 
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black)
 - **Python 3.14+** — pandas, seaborn, matplotlib
 - **SQL** — T-SQL (SQL Server) com DDL, DML, agregações e CTEs
+- **Power BI** — Modelagem, KPIs e DAX
 - **uv** — gerenciamento de dependências e ambiente virtual
 
 ---
 
-## Como Executar
-
-**Ambiente Python:**
-
-```bash
-uv sync
-uv run jupyter notebook notebook/analises.ipynb
-```
-
-**SQL:**
-
-Execute os scripts na ordem no SQL Server:
-1. `sql/normalizando_colunas.sql`
-2. `sql/queries_analises.sql`
+## 📩 Contato
+[Linkedin](https://www.linkedin.com/in/gushtavoroberto/) | 📧 almeida.gustavo0420@gmail.com
