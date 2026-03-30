@@ -6,7 +6,7 @@ Parcitipei do Desafio proposto pelo [walter Gonzaga](https://www.youtube.com/@go
 
 Você trabalha em uma empresa de e-commerce e recebeu uma base de vendas. Seu objetivo é transformar esses dados em informações de negócio utilizando SQL e Python. Esse desafio simula uma situação real de trabalho onde o profissional de dados precisa extrair, transformar e analisar dados para gerar insights.
 
-- **Dashboard** : [Acesso Rapido]
+- **Dashboard** : [Acesse Aqui](https://app.powerbi.com/view?r=eyJrIjoiMTI4ZTA0YTYtMTljYi00OWI4LWEwOGEtMTIxNmE3Y2NkMWFiIiwidCI6IjM2Yzc4ZDUwLThlY2UtNDNmYS1iMThlLTFlOWE5ZTNjNDI1ZCJ9)
 ---
 
 ## Estrutura do Projeto
